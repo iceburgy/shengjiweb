@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shengjiweb/static/css/main.5ad0da08.css",
-    "main.js": "/shengjiweb/static/js/main.51427118.js",
+    "main.js": "/shengjiweb/static/js/main.9002689f.js",
     "static/js/787.22edae46.chunk.js": "/shengjiweb/static/js/787.22edae46.chunk.js",
     "static/media/badjob.png": "/shengjiweb/static/media/badjob.42a9576209b8b6ef2382.png",
     "static/media/badjob2.png": "/shengjiweb/static/media/badjob2.69b0d76db1dea5a75369.png",
@@ -25,6 +25,7 @@
     "static/media/bg2.jpg": "/shengjiweb/static/media/bg2.c6e84f6c4a8a996367fc.jpg",
     "static/media/bagua.png": "/shengjiweb/static/media/bagua.613a4da0680ce7bd389f.png",
     "static/media/fireworks2.png": "/shengjiweb/static/media/fireworks2.9bee1650b2a0bcad27b9.png",
+    "static/media/movingtractor.png": "/shengjiweb/static/media/movingtractor.0339b5ba35086d562ae6.png",
     "static/media/happy.png": "/shengjiweb/static/media/happy.2f266c494178be532e36.png",
     "static/media/hurryup2.png": "/shengjiweb/static/media/hurryup2.b163ed944043d1ae9f50.png",
     "static/media/poker_table.png": "/shengjiweb/static/media/poker_table.1952f2d2d789e62f9c3b.png",
@@ -59,11 +60,11 @@
     "static/media/settings_form.txt": "/shengjiweb/static/media/settings_form.1745a5503d41f3702085.txt",
     "index.html": "/shengjiweb/index.html",
     "main.5ad0da08.css.map": "/shengjiweb/static/css/main.5ad0da08.css.map",
-    "main.51427118.js.map": "/shengjiweb/static/js/main.51427118.js.map",
+    "main.9002689f.js.map": "/shengjiweb/static/js/main.9002689f.js.map",
     "787.22edae46.chunk.js.map": "/shengjiweb/static/js/787.22edae46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ad0da08.css",
-    "static/js/main.51427118.js"
+    "static/js/main.9002689f.js"
   ]
 }
